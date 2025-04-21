@@ -1,0 +1,6 @@
+projectKey=va-demo
+serverUrl=http://localhost:9000
+serverVersion=25.4.0.105899
+dashboardUrl=http://localhost:9000/dashboard?id=va-demo
+ceTaskId=ed0de84d-88e7-4428-8554-bf73c5f4f043
+ceTaskUrl=http://localhost:9000/api/ce/task?id=ed0de84d-88e7-4428-8554-bf73c5f4f043
