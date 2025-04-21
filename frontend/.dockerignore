@@ -1,0 +1,11 @@
+node_modules
+dist
+.git
+*.log
+.env*
+.dockerignore
+.eslintrc*
+README.md
+.vscode
+*.md
+.DS_Store
